@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E10Vp0W4AXJs8Nals93GkIOxVSXFeYpws/c1Vw/Y5nTRMi5h1u0JTS6Ytpu0ZSnlJhCCopzyClvSzwV5Y3RPag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Saksham\\source\\repos\\DeployEmpManagementApi\\EmpManagement.CL\\EmpManagement.CL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Saksham\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Saksham\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

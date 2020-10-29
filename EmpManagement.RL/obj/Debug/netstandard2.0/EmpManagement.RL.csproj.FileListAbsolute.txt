@@ -1,0 +1,12 @@
+C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagement.RL\bin\Debug\netstandard2.0\EmpManagement.RL.deps.json
+C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagement.RL\bin\Debug\netstandard2.0\EmpManagement.RL.dll
+C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagement.RL\bin\Debug\netstandard2.0\EmpManagement.RL.pdb
+C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagement.RL\bin\Debug\netstandard2.0\EmpManagement.CL.dll
+C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagement.RL\bin\Debug\netstandard2.0\EmpManagement.CL.pdb
+C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagement.RL\obj\Debug\netstandard2.0\EmpManagement.RL.csprojAssemblyReference.cache
+C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagement.RL\obj\Debug\netstandard2.0\EmpManagement.RL.csproj.CoreCompileInputs.cache
+C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagement.RL\obj\Debug\netstandard2.0\EmpManagement.RL.AssemblyInfoInputs.cache
+C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagement.RL\obj\Debug\netstandard2.0\EmpManagement.RL.AssemblyInfo.cs
+C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagement.RL\obj\Debug\netstandard2.0\EmpManagement.RL.csproj.CopyComplete
+C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagement.RL\obj\Debug\netstandard2.0\EmpManagement.RL.dll
+C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagement.RL\obj\Debug\netstandard2.0\EmpManagement.RL.pdb
