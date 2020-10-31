@@ -7,19 +7,20 @@ using System.Text;
 namespace EmpManagement.CL.Models
 {
     /// <summary>
-    /// POCO class for Employee
+    /// Poco class for update model
     /// </summary>
-    #region EmployeeModel
-    public class EmployeeModel
+    #region UpdateModel
+    public class UpdateModel
     {
         /// <summary>
         /// Gets or sets Employee Id
         /// </summary>
+        [Required(ErrorMessage = "EmployeeId Is Required")]
         public int EmployeeId { get; set; }
 
         /// <summary>
         /// Gets or sets FirstName
-        /// </summary>
+        /// </summary>   
         [Required(ErrorMessage = "FirstName Is Required")]
         public string FirstName { get; set; }
 
@@ -52,6 +53,7 @@ namespace EmpManagement.CL.Models
         /// <summary>
         /// Gets or sets City
         /// </summary>
+        [Required(ErrorMessage = "City Is Required")]
         public string City { get; set; }
     }
     #endregion

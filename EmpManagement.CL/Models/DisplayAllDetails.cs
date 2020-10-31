@@ -1,16 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
 
 namespace EmpManagement.CL.Models
 {
     /// <summary>
-    /// POCO class for Employee
+    /// Poco class for Displaying all details
     /// </summary>
-    #region EmployeeModel
-    public class EmployeeModel
+    #region DisplayAllDetails
+    [Serializable]
+    public class DisplayAllDetails
     {
         /// <summary>
         /// Gets or sets Employee Id
@@ -41,13 +41,6 @@ namespace EmpManagement.CL.Models
         /// </summary>
         [Required(ErrorMessage = "UserName Is Required")]
         public string UserName { get; set; }
-
-        /// <summary>
-        /// Gets or sets Password
-        /// </summary>
-        [Required(ErrorMessage = "Password Is Required")]
-        [PasswordPropertyText]
-        public string Password { get; set; }
 
         /// <summary>
         /// Gets or sets City

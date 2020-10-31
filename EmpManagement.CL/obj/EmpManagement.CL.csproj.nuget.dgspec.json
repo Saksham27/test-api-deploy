@@ -38,11 +38,23 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "EasyCaching.InMemory": {
+              "target": "Package",
+              "version": "[0.9.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
             }
           },
           "imports": [

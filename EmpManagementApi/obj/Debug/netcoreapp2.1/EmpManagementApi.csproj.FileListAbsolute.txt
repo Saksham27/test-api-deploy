@@ -13,7 +13,6 @@ C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagementApi\bin\Debug\
 C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagementApi\bin\Debug\netcoreapp2.1\EmpManagement.RL.pdb
 C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagementApi\bin\Debug\netcoreapp2.1\EmpManagement.CL.pdb
 C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagementApi\obj\Debug\netcoreapp2.1\EmpManagementApi.csprojAssemblyReference.cache
-C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagementApi\obj\Debug\netcoreapp2.1\EmpManagementApi.csproj.CoreCompileInputs.cache
 C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagementApi\obj\Debug\netcoreapp2.1\EmpManagementApi.RazorAssemblyInfo.cache
 C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagementApi\obj\Debug\netcoreapp2.1\EmpManagementApi.RazorAssemblyInfo.cs
 C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagementApi\obj\Debug\netcoreapp2.1\EmpManagementApi.AssemblyInfoInputs.cache
@@ -23,3 +22,4 @@ C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagementApi\obj\Debug\
 C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagementApi\obj\Debug\netcoreapp2.1\EmpManagementApi.dll
 C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagementApi\obj\Debug\netcoreapp2.1\EmpManagementApi.pdb
 C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagementApi\obj\Debug\netcoreapp2.1\EmpManagementApi.genruntimeconfig.cache
+C:\Users\Saksham\source\repos\DeployEmpManagementApi\EmpManagementApi\obj\Debug\netcoreapp2.1\EmpManagementApi.csproj.CoreCompileInputs.cache

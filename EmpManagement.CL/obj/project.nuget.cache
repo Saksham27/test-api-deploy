@@ -1,11 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "E10Vp0W4AXJs8Nals93GkIOxVSXFeYpws/c1Vw/Y5nTRMi5h1u0JTS6Ytpu0ZSnlJhCCopzyClvSzwV5Y3RPag==",
+  "dgSpecHash": "/kcVsnEajrwb26FdUdruVg3jbWAKPGCyWiE4+1yFJ/x9xmSQQC6O+9SVaf3AUpXmcnko5ZGcOvC1u9/TSp0gbg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Saksham\\source\\repos\\DeployEmpManagementApi\\EmpManagement.CL\\EmpManagement.CL.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Saksham\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.0\\microsoft.extensions.configuration.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Saksham\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
     "C:\\Users\\Saksham\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Saksham\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Saksham\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Saksham\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Saksham\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\Saksham\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\Saksham\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\Saksham\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
